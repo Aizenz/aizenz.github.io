@@ -1,6 +1,6 @@
 # Personal Website
 
-Welcome to my [personal website](https://mldangelo.com)! This is an [MIT licensed](https://github.com/mldangelo/personal-site/blob/main/LICENSE) React-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
+Welcome to my [personal website](https://aizenz.github.io)! This is an [MIT licensed](https://github.com/mldangelo/personal-site/blob/main/LICENSE) React-based Jamstack application credited to [MICHAEL D&#39;ANGELO](https://mldangelo.com/)
 
 ## 🚀 Features
 
@@ -24,29 +24,26 @@ Ensure you have [node](https://nodejs.org/) >= v16. Optionally, use [nvm](https:
 
 1. Clone the repository:
 
-    ```bash
-    git clone git://github.com/mldangelo/personal-site.git
-    cd personal-site
-    ```
-
+   ```bash
+   git clone git://github.com/mldangelo/personal-site.git
+   cd personal-site
+   ```
 2. (Optional) Ensure you're on Node v16 or higher:
 
-    ```bash
-    nvm install
-    node --version
-    ```
-
+   ```bash
+   nvm install
+   node --version
+   ```
 3. Install dependencies:
 
-    ```bash
-    npm install
-    ```
-
+   ```bash
+   npm install
+   ```
 4. Start the application:
 
-    ```bash
-    npm start
-    ```
+   ```bash
+   npm start
+   ```
 
 By default, the application should be available at [http://localhost:3000/](http://localhost:3000/).
 
@@ -67,9 +64,9 @@ For a static export without deploying to GitHub Pages:
 - Remove or disable `.github/workflows/github-pages.yml`.
 - Execute:
 
-    ```bash
-    npm run predeploy
-    ```
+  ```bash
+  npm run predeploy
+  ```
 
 This will generate a static version in `personal-site/build/` which you can host or deploy to a CDN.
 
@@ -77,4 +74,4 @@ This will generate a static version in `personal-site/build/` which you can host
 
 - Initial template from [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
 - Special thanks to [@typpo](https://github.com/typpo) for tirelessly answering all of my node.js and react questions.
-- Kudos to [@notrueblood](https://github.com/notrueblood)[<sup>[1]</sup>](https://github.com/mldangelo/personal-site/pull/218) and [@sjhsieh](https://github.com/sjhsieh)[<sup>[2]</sup>](https://github.com/mldangelo/personal-site/issues/168) for their constructive feedback.
+- Kudos to [@notrueblood](https://github.com/notrueblood)[`<sup>`[1]`</sup>`](https://github.com/mldangelo/personal-site/pull/218) and [@sjhsieh](https://github.com/sjhsieh)[`<sup>`[2]`</sup>`](https://github.com/mldangelo/personal-site/issues/168) for their constructive feedback.
