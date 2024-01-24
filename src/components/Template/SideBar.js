@@ -12,14 +12,21 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Zuojie &apos;Liu</h2>
+        <h2>Zuojie Liu</h2>
+        <h2>
+          <ruby>
+            刘作杰
+            <rt>Líu Zuòjíe</rt>
+          </ruby>
+        </h2>
+        <h2>劉作傑</h2>
         <p><a href="mailto:zjliu98@gmail.com">zjliu98@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Zuojie. I am a <a href="https://www.sauder.ubc.ca/programs/masters-degrees/mban">UBC MBAN</a> graduate, PKU Alumni.
+      <p>Hi, I&apos;m Zuojie. I am a <a href="https://www.sauder.ubc.ca/programs/masters-degrees/mban">UBC MBAN</a> candidate, PKU NSD Alumni, Pianist
       </p>
       <ul className="actions">
         <li>
