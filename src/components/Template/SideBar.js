@@ -16,10 +16,15 @@ const SideBar = () => (
         <h2>
           <ruby>
             刘作杰
-            <rt>Líu Zuòjíe</rt>
+            <rt>LíuZuòjíe</rt>
           </ruby>
         </h2>
-        <h2>劉作傑</h2>
+        <h2>
+          <ruby>
+            劉作傑
+            <rt>ㄌㄧㄡˊㄗㄨㄛˋㄐㄧㄝˊ</rt>
+          </ruby>
+        </h2>
         <p><a href="mailto:zjliu98@gmail.com">zjliu98@gmail.com</a></p>
       </header>
     </section>
