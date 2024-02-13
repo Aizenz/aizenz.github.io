@@ -25,6 +25,11 @@ const skills = [
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
+    title: 'Mongodb/Neo4j',
+    competency: 3,
+    category: ['Web Development', 'Databases', 'Languages'],
+  },
+  {
     title: 'Data Mining',
     competency: 3,
     category: ['ML Engineering'],

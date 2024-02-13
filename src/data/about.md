@@ -16,7 +16,6 @@ The last part of my name, called given name, is my real name. It came from a com
 >
 > 生当**作**人**杰**，死亦为鬼雄。
 >
->
 > 至今思项羽，不肯过江东。
 >
 > "Jue Ju" by Li Qingzhao from the Song Dynasty
@@ -31,7 +30,7 @@ The last part of my name, called given name, is my real name. It came from a com
 - I was born in [Tashui](https://zh.wikipedia.org/wiki/%E5%A1%94%E6%B0%B4%E9%95%87), Sichuan in 1998. My father was a rural teacher teaching English in an elementary, and my mother too was a rural teacher teaching music.
 - At three, my family moved from rural area to the town. To celebrate the immigration, my grandma decided to wash my body. Unfortunately, I was severly burn by fresh boiled water and stayed in hospital for the next year.
 - At four, I started playing piano taught by my mum. My favorite song was *Venice Festival* by Shostakovich and *Beat it* by Michael Jackson (I didn't know English but could still sing that song)
-- At five, I
+- At five,
 
 # I like
 
@@ -44,8 +43,10 @@ The last part of my name, called given name, is my real name. It came from a com
   - Don't know what is Yo-Yo? Check [this](https://www.youtube.com/watch?v=nakI7otES74) video.
 - Reading & History & Philosophy
   - Current reading: *The Protestant Ethic and the Spirit of Capitalism*
+- PC
 
 # Fun facts
+
 
 # I dream of
 

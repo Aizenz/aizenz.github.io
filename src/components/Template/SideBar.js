@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Zuojie. I am a <a href="https://www.sauder.ubc.ca/programs/masters-degrees/mban">UBC MBAN</a> candidate, PKU NSD Alumni, Pianist
+      <p>Hi, I&apos;m Zuojie. I am a <a href="https://www.sauder.ubc.ca/programs/masters-degrees/mban">UBC MBAN</a> candidate, <a href="https://nsd.pku.edu.cn/"> PKU NSD</a>alumni, Pianist. Based in Vancouver, I am now looking forward to a career in Data Analytics/ Data Science.
       </p>
       <ul className="actions">
         <li>

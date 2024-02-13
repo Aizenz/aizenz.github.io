@@ -17,6 +17,7 @@ const work = [
     position: 'Investment Research Intern',
     url: 'https://eng.huacapital.com/',
     startDate: '2023-02-01',
+    endDate: '2023-4-30',
     summary: 'summary',
     highlights: [
       'Played a key role in organizing 7 high-profile investor meetings with top neo-energy industry leaders, significantly contributing topotential multi-million dollar investment discussions.',
