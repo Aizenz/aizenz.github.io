@@ -17,7 +17,7 @@ const work = [
     position: 'Investment Research Intern',
     url: 'https://eng.huacapital.com/',
     startDate: '2023-02-01',
-    endDate: '2023-4-30',
+    endDate: '2023-04-30',
     summary: 'summary',
     highlights: [
       'Played a key role in organizing 7 high-profile investor meetings with top neo-energy industry leaders, significantly contributing topotential multi-million dollar investment discussions.',
@@ -26,10 +26,11 @@ const work = [
     ],
   },
   {
-    name: 'Ablian Capital LP,',
+    name: 'Abelian Capital LP,',
     position: 'Quantitative Equity Research Intern',
     url: 'http://www.abeliantec.com/',
-    startDate: 'time',
+    startDate: '2021-07-21',
+    endDate: '2022-07-31',
     summary: 'summary',
     highlights: [
       'Conducted extensive research on chemicals, electrical, metals, and neo-energy sectors, analyzing over 200 listed companies andformed over 20 reports with data visualization as a key contributor to the quantamental research team.',

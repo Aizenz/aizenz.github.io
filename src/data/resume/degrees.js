@@ -1,6 +1,6 @@
 const degrees = [
   {
-    school: 'The University of British Columnbia',
+    school: 'The University of British Columbia',
     degree: 'Master of Business Analytics',
     link: 'https://www.ubc.ca/',
     year: 2024,
