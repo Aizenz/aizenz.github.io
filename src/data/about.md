@@ -29,8 +29,8 @@ The last part of my name, called given name, is my real name. It came from a com
 
 - I was born in [Tashui](https://zh.wikipedia.org/wiki/%E5%A1%94%E6%B0%B4%E9%95%87), Sichuan in 1998. My father was a rural teacher teaching English in an elementary, and my mother too was a rural teacher teaching music.
 - At three, my family moved from rural area to the town. To celebrate the immigration, my grandma decided to wash my body. Unfortunately, I was severly burn by fresh boiled water and stayed in hospital for the next year.
-- At four, I started playing piano taught by my mum. My favorite song was *Venice Festival* by Shostakovich and *Beat it* by Michael Jackson (I didn't know English but could still sing that song)
-- At five,
+- At four, I started playing piano taught by my mum. My favorite song was *Venice Festival* rearranged by Shostakovich and *Beat it* by Michael Jackson (I didn't know English but could still sing that song)
+- At five, I met 
 
 # I like
 
@@ -43,12 +43,22 @@ The last part of my name, called given name, is my real name. It came from a com
   - Don't know what is Yo-Yo? Check [this](https://www.youtube.com/watch?v=nakI7otES74) video.
 - Reading & History & Philosophy
   - Current reading: *The Protestant Ethic and the Spirit of Capitalism*
-- PC
+- PC DIY:
+  - Enjoy in making Compact ITX case.
+  - Experienced in hand-made water cooling system
+- Ramen, all kinds of
 
 # Fun facts
 
+* My education process: Chemistry-> Engineering -> Economics -> Business Analytics -> ?
+* I started teaching piano since I was ten years old. My first student was a high school student who is 7 years older than me.
+* I made a chemical boom when I was 13.
+* I will try to sing some **polyphonic music pieces** when I was walking. 
+* I own a piano shop.
+* I finished all undergranduate level chemistry courses before I entered University and then just changed the major.
+* I am the first generation of university student.
 
 # I dream of
 
-- Buy a Steinway [Model D](https://www.steinway.com/pianos/steinway/grand/model-d) concerto grand piano -> Worth 400,000 CAD excluded tax.
--
+- Buy a Steinway [Model D](https://www.steinway.com/pianos/steinway/grand/model-d) concerto grand piano 
+- Build my own lab from melting mine stones to manufacture eletronics
